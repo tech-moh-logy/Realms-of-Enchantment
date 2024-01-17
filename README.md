@@ -1,3 +1,7 @@
+Copyright © 2024 Mohammed. All rights reserved.
+
+Unauthorized copying, redistribution, forking, or cloning of the content from this portfolio website and other associated materials is strictly prohibited and will not be tolerated.
+
 # Realms-of-Enchantment
 Developed complex data structures for dynamic gaming; applied algorithms, structured code for interactivity.
 
